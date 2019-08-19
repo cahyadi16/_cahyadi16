@@ -1,0 +1,131 @@
+/* html {
+  scroll-behavior: smooth;
+} */
+
+.font1 {
+  font-family: 'Righteous', cursive;
+}
+
+.font2 {
+  font-family: 'Audiowide', cursive;
+}
+
+.atas {
+  margin-top: 55px;
+}
+
+hr {
+  width: 220px;
+  border-top: 3px solid black;
+}
+
+.patop {
+  padding-top: 20px;
+}
+
+.foto {
+  width: 100%;
+}
+
+.warna {
+  background: linear-gradient(to right, #1e3799, #8e44ad);
+  /* background-color: black; */
+}
+
+.fa-github {
+  color: white;
+}
+
+.fa-github:hover {
+  color: white;
+}
+
+.fa-instagram {
+  color: #A73A97;
+}
+
+.fa-instagram:hover {
+  color: #A73A97;
+}
+
+.fa-youtube-play:hover {
+  color: red;
+}
+
+.fa-youtube-play {
+  color: red;
+}
+
+
+/* Desktop Version */
+@media (min-width: 768px) {
+  .font1 {
+    font-family: 'Righteous', cursive;
+  }
+
+  .font2 {
+    font-family: 'Audiowide', cursive;
+  }
+
+  .gambar {
+    height: 620px;
+  }
+
+  .atas {
+    margin-top: 50px;
+  }
+
+  hr {
+    width: 220px;
+    border-top: 3px solid black;
+  }
+
+  .skill {
+    width: 620px;
+    border-top: 3px solid black;
+  }
+
+  .warna {
+    /* background: linear-gradient(to right, #007BFF, #28A745); */
+    background-color: black;
+  }
+
+
+  .fa-github {
+    color: white;
+  }
+
+  .fa-github:hover {
+    color: white;
+  }
+
+  .fa-instagram {
+    color: #A73A97;
+  }
+
+  .fa-instagram:hover {
+    color: #A73A97;
+  }
+
+  .fa-youtube-play:hover {
+    color: red;
+  }
+
+  .fa-youtube-play {
+    color: red;
+  }
+
+  .ski {
+    background-color: #FAFAFA;
+  }
+
+  .sha {
+    text-shadow: 1px 1px black;
+  }
+
+  .ukuranfont {
+    font-size: 20px;
+  }
+
+
+}
